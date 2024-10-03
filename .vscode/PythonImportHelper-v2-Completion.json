@@ -1,0 +1,800 @@
+[
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "site",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "site",
+        "description": "site",
+        "detail": "site",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "create_engine",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "text",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Column",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Integer",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "String",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "DateTime",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Text",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "ForeignKey",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Column",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Integer",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "String",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "DateTime",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Boolean",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Text",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "ForeignKey",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Column",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Integer",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "String",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "DateTime",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Column",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "String",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Integer",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Boolean",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "DateTime",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "func",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "desc",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "sessionmaker",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "relationship",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "dataclass",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
+        "label": "field",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "declarative_base",
+        "importPath": "sqlalchemy.ext.declarative",
+        "description": "sqlalchemy.ext.declarative",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.ext.declarative",
+        "documentation": {}
+    },
+    {
+        "label": "declarative_base",
+        "importPath": "sqlalchemy.ext.declarative",
+        "description": "sqlalchemy.ext.declarative",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.ext.declarative",
+        "documentation": {}
+    },
+    {
+        "label": "declarative_base",
+        "importPath": "sqlalchemy.ext.declarative",
+        "description": "sqlalchemy.ext.declarative",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.ext.declarative",
+        "documentation": {}
+    },
+    {
+        "label": "declarative_base",
+        "importPath": "sqlalchemy.ext.declarative",
+        "description": "sqlalchemy.ext.declarative",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.ext.declarative",
+        "documentation": {}
+    },
+    {
+        "label": "NVARCHAR",
+        "importPath": "sqlalchemy.dialects.mssql",
+        "description": "sqlalchemy.dialects.mssql",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.dialects.mssql",
+        "documentation": {}
+    },
+    {
+        "label": "BIT",
+        "importPath": "sqlalchemy.dialects.mssql",
+        "description": "sqlalchemy.dialects.mssql",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.dialects.mssql",
+        "documentation": {}
+    },
+    {
+        "label": "DATETIME",
+        "importPath": "sqlalchemy.dialects.mssql",
+        "description": "sqlalchemy.dialects.mssql",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.dialects.mssql",
+        "documentation": {}
+    },
+    {
+        "label": "BIT",
+        "importPath": "sqlalchemy.dialects.mssql",
+        "description": "sqlalchemy.dialects.mssql",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.dialects.mssql",
+        "documentation": {}
+    },
+    {
+        "label": "DATETIME",
+        "importPath": "sqlalchemy.dialects.mssql",
+        "description": "sqlalchemy.dialects.mssql",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.dialects.mssql",
+        "documentation": {}
+    },
+    {
+        "label": "NVARCHAR",
+        "importPath": "sqlalchemy.dialects.mssql",
+        "description": "sqlalchemy.dialects.mssql",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.dialects.mssql",
+        "documentation": {}
+    },
+    {
+        "label": "DATE",
+        "importPath": "sqlalchemy.dialects.mssql",
+        "description": "sqlalchemy.dialects.mssql",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.dialects.mssql",
+        "documentation": {}
+    },
+    {
+        "label": "NVARCHAR",
+        "importPath": "sqlalchemy.dialects.mssql",
+        "description": "sqlalchemy.dialects.mssql",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.dialects.mssql",
+        "documentation": {}
+    },
+    {
+        "label": "DATETIME",
+        "importPath": "sqlalchemy.dialects.mssql",
+        "description": "sqlalchemy.dialects.mssql",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.dialects.mssql",
+        "documentation": {}
+    },
+    {
+        "label": "MsgCenterEntity",
+        "importPath": "app.models.entities.msg_center_entity",
+        "description": "app.models.entities.msg_center_entity",
+        "isExtraImport": true,
+        "detail": "app.models.entities.msg_center_entity",
+        "documentation": {}
+    },
+    {
+        "label": "MsgCenterEntity",
+        "importPath": "app.models.entities.msg_center_entity",
+        "description": "app.models.entities.msg_center_entity",
+        "isExtraImport": true,
+        "detail": "app.models.entities.msg_center_entity",
+        "documentation": {}
+    },
+    {
+        "label": "BaseRepository",
+        "importPath": "app.repositories.repository",
+        "description": "app.repositories.repository",
+        "isExtraImport": true,
+        "detail": "app.repositories.repository",
+        "documentation": {}
+    },
+    {
+        "label": "BaseRepository",
+        "importPath": "app.repositories.repository",
+        "description": "app.repositories.repository",
+        "isExtraImport": true,
+        "detail": "app.repositories.repository",
+        "documentation": {}
+    },
+    {
+        "label": "BaseRepository",
+        "importPath": "app.repositories.repository",
+        "description": "app.repositories.repository",
+        "isExtraImport": true,
+        "detail": "app.repositories.repository",
+        "documentation": {}
+    },
+    {
+        "label": "BaseRepository",
+        "importPath": "app.repositories.repository",
+        "description": "app.repositories.repository",
+        "isExtraImport": true,
+        "detail": "app.repositories.repository",
+        "documentation": {}
+    },
+    {
+        "label": "DatabaseConnection",
+        "importPath": "app.database.connection",
+        "description": "app.database.connection",
+        "isExtraImport": true,
+        "detail": "app.database.connection",
+        "documentation": {}
+    },
+    {
+        "label": "RFQHeaderEntity",
+        "importPath": "app.models.entities.rfq_hearder_entity",
+        "description": "app.models.entities.rfq_hearder_entity",
+        "isExtraImport": true,
+        "detail": "app.models.entities.rfq_hearder_entity",
+        "documentation": {}
+    },
+    {
+        "label": "RFQVendorEntity",
+        "importPath": "app.models.entities.rfq_vendor_entity",
+        "description": "app.models.entities.rfq_vendor_entity",
+        "isExtraImport": true,
+        "detail": "app.models.entities.rfq_vendor_entity",
+        "documentation": {}
+    },
+    {
+        "label": "UserEntity",
+        "importPath": "app.models.entities.user_entity",
+        "description": "app.models.entities.user_entity",
+        "isExtraImport": true,
+        "detail": "app.models.entities.user_entity",
+        "documentation": {}
+    },
+    {
+        "label": "Mail",
+        "importPath": "app.models.domains.mail",
+        "description": "app.models.domains.mail",
+        "isExtraImport": true,
+        "detail": "app.models.domains.mail",
+        "documentation": {}
+    },
+    {
+        "label": "Mail",
+        "importPath": "app.models.domains.mail",
+        "description": "app.models.domains.mail",
+        "isExtraImport": true,
+        "detail": "app.models.domains.mail",
+        "documentation": {}
+    },
+    {
+        "label": "UserRepository",
+        "importPath": "app.repositories.user_repo",
+        "description": "app.repositories.user_repo",
+        "isExtraImport": true,
+        "detail": "app.repositories.user_repo",
+        "documentation": {}
+    },
+    {
+        "label": "RFQHeaderRepository",
+        "importPath": "app.repositories.rfq_hearder_repo",
+        "description": "app.repositories.rfq_hearder_repo",
+        "isExtraImport": true,
+        "detail": "app.repositories.rfq_hearder_repo",
+        "documentation": {}
+    },
+    {
+        "label": "RFQHeaderRepository",
+        "importPath": "app.repositories.rfq_hearder_repo",
+        "description": "app.repositories.rfq_hearder_repo",
+        "isExtraImport": true,
+        "detail": "app.repositories.rfq_hearder_repo",
+        "documentation": {}
+    },
+    {
+        "label": "re",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "re",
+        "description": "re",
+        "detail": "re",
+        "documentation": {}
+    },
+    {
+        "label": "MsgCenterRepository",
+        "importPath": "app.repositories.msg_center_repo",
+        "description": "app.repositories.msg_center_repo",
+        "isExtraImport": true,
+        "detail": "app.repositories.msg_center_repo",
+        "documentation": {}
+    },
+    {
+        "label": "RFQVendorRepository",
+        "importPath": "app.repositories.rfq_vendor_repo",
+        "description": "app.repositories.rfq_vendor_repo",
+        "isExtraImport": true,
+        "detail": "app.repositories.rfq_vendor_repo",
+        "documentation": {}
+    },
+    {
+        "label": "DetectMailService",
+        "importPath": "app.services.detect_mail_service",
+        "description": "app.services.detect_mail_service",
+        "isExtraImport": true,
+        "detail": "app.services.detect_mail_service",
+        "documentation": {}
+    },
+    {
+        "label": "FetchDataService",
+        "importPath": "app.services.fetch_data_service",
+        "description": "app.services.fetch_data_service",
+        "isExtraImport": true,
+        "detail": "app.services.fetch_data_service",
+        "documentation": {}
+    },
+    {
+        "label": "bin_dir",
+        "kind": 5,
+        "importPath": ".venv.Scripts.activate_this",
+        "description": ".venv.Scripts.activate_this",
+        "peekOfCode": "bin_dir = os.path.dirname(abs_file)\nbase = bin_dir[: -len(\"Scripts\") - 1]  # strip away the bin part from the __file__, plus the path separator\n# prepend bin to PATH (this file is inside the bin directory)\nos.environ[\"PATH\"] = os.pathsep.join([bin_dir, *os.environ.get(\"PATH\", \"\").split(os.pathsep)])\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\nos.environ[\"VIRTUAL_ENV_PROMPT\"] = \"\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"..\\\\Lib\\\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))",
+        "detail": ".venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "base",
+        "kind": 5,
+        "importPath": ".venv.Scripts.activate_this",
+        "description": ".venv.Scripts.activate_this",
+        "peekOfCode": "base = bin_dir[: -len(\"Scripts\") - 1]  # strip away the bin part from the __file__, plus the path separator\n# prepend bin to PATH (this file is inside the bin directory)\nos.environ[\"PATH\"] = os.pathsep.join([bin_dir, *os.environ.get(\"PATH\", \"\").split(os.pathsep)])\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\nos.environ[\"VIRTUAL_ENV_PROMPT\"] = \"\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"..\\\\Lib\\\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)",
+        "detail": ".venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "os.environ[\"PATH\"]",
+        "kind": 5,
+        "importPath": ".venv.Scripts.activate_this",
+        "description": ".venv.Scripts.activate_this",
+        "peekOfCode": "os.environ[\"PATH\"] = os.pathsep.join([bin_dir, *os.environ.get(\"PATH\", \"\").split(os.pathsep)])\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\nos.environ[\"VIRTUAL_ENV_PROMPT\"] = \"\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"..\\\\Lib\\\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix",
+        "detail": ".venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "os.environ[\"VIRTUAL_ENV\"]",
+        "kind": 5,
+        "importPath": ".venv.Scripts.activate_this",
+        "description": ".venv.Scripts.activate_this",
+        "peekOfCode": "os.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\nos.environ[\"VIRTUAL_ENV_PROMPT\"] = \"\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"..\\\\Lib\\\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": ".venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "os.environ[\"VIRTUAL_ENV_PROMPT\"]",
+        "kind": 5,
+        "importPath": ".venv.Scripts.activate_this",
+        "description": ".venv.Scripts.activate_this",
+        "peekOfCode": "os.environ[\"VIRTUAL_ENV_PROMPT\"] = \"\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"..\\\\Lib\\\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": ".venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "prev_length",
+        "kind": 5,
+        "importPath": ".venv.Scripts.activate_this",
+        "description": ".venv.Scripts.activate_this",
+        "peekOfCode": "prev_length = len(sys.path)\nfor lib in \"..\\\\Lib\\\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": ".venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "sys.path[:]",
+        "kind": 5,
+        "importPath": ".venv.Scripts.activate_this",
+        "description": ".venv.Scripts.activate_this",
+        "peekOfCode": "sys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": ".venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "sys.real_prefix",
+        "kind": 5,
+        "importPath": ".venv.Scripts.activate_this",
+        "description": ".venv.Scripts.activate_this",
+        "peekOfCode": "sys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": ".venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "sys.prefix",
+        "kind": 5,
+        "importPath": ".venv.Scripts.activate_this",
+        "description": ".venv.Scripts.activate_this",
+        "peekOfCode": "sys.prefix = base",
+        "detail": ".venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "DatabaseConnection",
+        "kind": 6,
+        "importPath": "app.database.connection",
+        "description": "app.database.connection",
+        "peekOfCode": "class DatabaseConnection:\n    def __init__(self, database_name):\n        server_name = \"SCC-BSRPDB01\"\n        driver = \"SQL Server\"\n        trusted_connection = \"yes\"\n        connection_string = f\"mssql+pyodbc://{server_name}/{database_name}?driver={driver}&trusted_connection={trusted_connection}\"\n        self.engine = create_engine(connection_string)\n        self.Session = sessionmaker(bind=self.engine)\n        # print(\"Connection established\", database_name)\n    def get_session(self):",
+        "detail": "app.database.connection",
+        "documentation": {}
+    },
+    {
+        "label": "Mail",
+        "kind": 6,
+        "importPath": "app.models.domains.mail",
+        "description": "app.models.domains.mail",
+        "peekOfCode": "class Mail:\n    sender: List[str] = field(default_factory=list)\n    recipient: List[str] = field(default_factory=list)\n    cc: List[str] = field(default_factory=list)\n    subject: List[str] = field(default_factory=list)\n    def __post_init__(self):\n        if not self.sender or not self.recipient:\n            raise ValueError(\"Sender and recipient cannot be empty.\")\n    def display(self):\n        cc_list = ', '.join(self.cc) if self.cc else 'None'",
+        "detail": "app.models.domains.mail",
+        "documentation": {}
+    },
+    {
+        "label": "MsgCenterEntity",
+        "kind": 6,
+        "importPath": "app.models.entities.msg_center_entity",
+        "description": "app.models.entities.msg_center_entity",
+        "peekOfCode": "class MsgCenterEntity(Base):\n    __tablename__ = 'MSGCENTER'\n    __table_args__ = {'schema': 'TR'}\n    SID = Column(Integer, primary_key=True, autoincrement=True)\n    MSGTYPE_SID = Column(Integer, nullable=True)\n    MSGDATE = Column(DATETIME, nullable=True)\n    MAILBOX_ADDR = Column(NVARCHAR(255), nullable=True)\n    EMAILUID = Column(NVARCHAR(50), nullable=True)\n    READFLAG = Column(BIT, nullable=True)\n    ACTIVE = Column(Integer, nullable=True)  # ควรเปลี่ยนเป็นชนิดข้อมูลที่เหมาะสมสำหรับ ACTIVEFLAG",
+        "detail": "app.models.entities.msg_center_entity",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "kind": 5,
+        "importPath": "app.models.entities.msg_center_entity",
+        "description": "app.models.entities.msg_center_entity",
+        "peekOfCode": "Base = declarative_base()\nclass MsgCenterEntity(Base):\n    __tablename__ = 'MSGCENTER'\n    __table_args__ = {'schema': 'TR'}\n    SID = Column(Integer, primary_key=True, autoincrement=True)\n    MSGTYPE_SID = Column(Integer, nullable=True)\n    MSGDATE = Column(DATETIME, nullable=True)\n    MAILBOX_ADDR = Column(NVARCHAR(255), nullable=True)\n    EMAILUID = Column(NVARCHAR(50), nullable=True)\n    READFLAG = Column(BIT, nullable=True)",
+        "detail": "app.models.entities.msg_center_entity",
+        "documentation": {}
+    },
+    {
+        "label": "RFQHeaderEntity",
+        "kind": 6,
+        "importPath": "app.models.entities.rfq_hearder_entity",
+        "description": "app.models.entities.rfq_hearder_entity",
+        "peekOfCode": "class RFQHeaderEntity(Base):\n    __tablename__ = 'RFQHEADER'\n    __table_args__ = {'schema': 'TR'}\n    SID = Column(Integer, primary_key=True, autoincrement=True)\n    RFQNO = Column(NVARCHAR, nullable=True)\n    DUEDATE = Column(DATE, nullable=True)\n    PURCHASER_SID = Column(Integer, nullable=True)\n    ACTIVE = Column(Integer, nullable=True)  # This depends on the definition of ACTIVEFLAG in your DB\n    # SUBMITDATE = Column(DATETIME, nullable=True)\n    # FINALAPPROVEDATE = Column(DATETIME, nullable=True)",
+        "detail": "app.models.entities.rfq_hearder_entity",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "kind": 5,
+        "importPath": "app.models.entities.rfq_hearder_entity",
+        "description": "app.models.entities.rfq_hearder_entity",
+        "peekOfCode": "Base = declarative_base()\nclass RFQHeaderEntity(Base):\n    __tablename__ = 'RFQHEADER'\n    __table_args__ = {'schema': 'TR'}\n    SID = Column(Integer, primary_key=True, autoincrement=True)\n    RFQNO = Column(NVARCHAR, nullable=True)\n    DUEDATE = Column(DATE, nullable=True)\n    PURCHASER_SID = Column(Integer, nullable=True)\n    ACTIVE = Column(Integer, nullable=True)  # This depends on the definition of ACTIVEFLAG in your DB\n    # SUBMITDATE = Column(DATETIME, nullable=True)",
+        "detail": "app.models.entities.rfq_hearder_entity",
+        "documentation": {}
+    },
+    {
+        "label": "RFQVendorEntity",
+        "kind": 6,
+        "importPath": "app.models.entities.rfq_vendor_entity",
+        "description": "app.models.entities.rfq_vendor_entity",
+        "peekOfCode": "class RFQVendorEntity(Base):\n    __tablename__ = 'RFQVENDOR'\n    __table_args__ = {'schema': 'TR'}\n    SID = Column(Integer, primary_key=True, autoincrement=True)\n    RFQHEADER_SID = Column(Integer, nullable=True)  # รหัสหัวข้อ RFQ\n    COMMONVENDOR_SID = Column(Integer, nullable=True)  # รหัสผู้ขายทั่วไป\n    CONTACT = Column(NVARCHAR(255), nullable=True)  # ข้อมูลการติดต่อ\n    EMAIL = Column(NVARCHAR(255), nullable=True)  # อีเมล\n    FAX = Column(NVARCHAR(255), nullable=True)  # หมายเลขแฟกซ์\n    MSGTYPE_SID_ORDERMETHOD = Column(Integer, nullable=True)  # รหัสประเภทข้อความสำหรับวิธีการสั่งซื้อ",
+        "detail": "app.models.entities.rfq_vendor_entity",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "kind": 5,
+        "importPath": "app.models.entities.rfq_vendor_entity",
+        "description": "app.models.entities.rfq_vendor_entity",
+        "peekOfCode": "Base = declarative_base()\nclass RFQVendorEntity(Base):\n    __tablename__ = 'RFQVENDOR'\n    __table_args__ = {'schema': 'TR'}\n    SID = Column(Integer, primary_key=True, autoincrement=True)\n    RFQHEADER_SID = Column(Integer, nullable=True)  # รหัสหัวข้อ RFQ\n    COMMONVENDOR_SID = Column(Integer, nullable=True)  # รหัสผู้ขายทั่วไป\n    CONTACT = Column(NVARCHAR(255), nullable=True)  # ข้อมูลการติดต่อ\n    EMAIL = Column(NVARCHAR(255), nullable=True)  # อีเมล\n    FAX = Column(NVARCHAR(255), nullable=True)  # หมายเลขแฟกซ์",
+        "detail": "app.models.entities.rfq_vendor_entity",
+        "documentation": {}
+    },
+    {
+        "label": "UserEntity",
+        "kind": 6,
+        "importPath": "app.models.entities.user_entity",
+        "description": "app.models.entities.user_entity",
+        "peekOfCode": "class UserEntity(Base):\n    __tablename__ = 'USERS'\n    __table_args__ = {'schema': 'MASTR'}\n    SID = Column(Integer, primary_key=True, autoincrement=True)\n    USERID = Column(String)\n    ACTIVE = Column(Boolean)\n    EMAIL = Column(String)\n    PASSWD = Column(String)\n    SALT = Column(String)\n    SUBMITDATE = Column(DateTime)",
+        "detail": "app.models.entities.user_entity",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "kind": 5,
+        "importPath": "app.models.entities.user_entity",
+        "description": "app.models.entities.user_entity",
+        "peekOfCode": "Base = declarative_base()\nclass UserEntity(Base):\n    __tablename__ = 'USERS'\n    __table_args__ = {'schema': 'MASTR'}\n    SID = Column(Integer, primary_key=True, autoincrement=True)\n    USERID = Column(String)\n    ACTIVE = Column(Boolean)\n    EMAIL = Column(String)\n    PASSWD = Column(String)\n    SALT = Column(String)",
+        "detail": "app.models.entities.user_entity",
+        "documentation": {}
+    },
+    {
+        "label": "MsgCenterRepository",
+        "kind": 6,
+        "importPath": "app.repositories.msg_center_repo",
+        "description": "app.repositories.msg_center_repo",
+        "peekOfCode": "class MsgCenterRepository(BaseRepository) :\n    def __init__(self):\n        super().__init__(database_name=\"SALLY\")\n        self.query = self.session.query(MsgCenterEntity) \n    def find_by_subject_ilike(self, rfqno):\n        return self.query.filter(MsgCenterEntity.SUBJECT.ilike(f\"%{rfqno}%\")).all()",
+        "detail": "app.repositories.msg_center_repo",
+        "documentation": {}
+    },
+    {
+        "label": "BaseRepository",
+        "kind": 6,
+        "importPath": "app.repositories.repository",
+        "description": "app.repositories.repository",
+        "peekOfCode": "class BaseRepository(DatabaseConnection):\n    def __init__(self, database_name):\n        super().__init__(database_name)\n        self.session = self.get_session()\n    def close_session(self):\n        if self.session:\n            self.session.close()",
+        "detail": "app.repositories.repository",
+        "documentation": {}
+    },
+    {
+        "label": "RFQHeaderRepository",
+        "kind": 6,
+        "importPath": "app.repositories.rfq_hearder_repo",
+        "description": "app.repositories.rfq_hearder_repo",
+        "peekOfCode": "class RFQHeaderRepository(BaseRepository):\n    def __init__(self):\n        super().__init__(database_name=\"SALLY\")\n        self.query = self.session.query(RFQHeaderEntity)\n    def find_by_sid(self, sid):\n       return self.query.filter(RFQHeaderEntity.SID == sid).first()\n    def fetch_all(self,**conditions):\n        query =  self.query\n        for key, value in conditions.items():\n            query = query.filter(getattr(RFQHeaderEntity, key) == value)",
+        "detail": "app.repositories.rfq_hearder_repo",
+        "documentation": {}
+    },
+    {
+        "label": "RFQVendorRepository",
+        "kind": 6,
+        "importPath": "app.repositories.rfq_vendor_repo",
+        "description": "app.repositories.rfq_vendor_repo",
+        "peekOfCode": "class RFQVendorRepository(BaseRepository) : \n    def __init__(self):\n        super().__init__(database_name=\"SALLY\")\n        self.query = self.session.query(RFQVendorEntity)\n    def find_by_rfqsid(self, rfqsid):\n        return self.query.filter(RFQVendorEntity.RFQHEADER_SID == rfqsid).all()",
+        "detail": "app.repositories.rfq_vendor_repo",
+        "documentation": {}
+    },
+    {
+        "label": "UserRepository",
+        "kind": 6,
+        "importPath": "app.repositories.user_repo",
+        "description": "app.repositories.user_repo",
+        "peekOfCode": "class UserRepository(BaseRepository) :\n    def __init__(self):\n        super().__init__(database_name=\"SALLY\")\n        self.query = self.session.query(UserEntity)\n    # def find_by_email(self, email) -> UserEntity:\n    #     return self.query.filter(UserEntity.EMAIL == email).first()\n    def is_email_for_pb(self, email):\n        return self.query.filter(UserEntity.EMAIL == email).first() is not None",
+        "detail": "app.repositories.user_repo",
+        "documentation": {}
+    },
+    {
+        "label": "DetectMailService",
+        "kind": 6,
+        "importPath": "app.services.detect_mail_service",
+        "description": "app.services.detect_mail_service",
+        "peekOfCode": "class DetectMailService:\n    def __init__(self) -> None:\n        self.sender_first_mail: List[str] = []\n        self.receive_first_mail: List[str] = []\n    def detect(self, email_transactions: List[Mail]):\n        self.sender_first_mail = email_transactions[0].sender\n        self.receive_first_mail = email_transactions[0].recipient\n        if \"cposystem@scg.com\" == self.sender_first_mail[0] and (\n            (\n                len(self.receive_first_mail) == 1",
+        "detail": "app.services.detect_mail_service",
+        "documentation": {}
+    },
+    {
+        "label": "FetchDataService",
+        "kind": 6,
+        "importPath": "app.services.fetch_data_service",
+        "description": "app.services.fetch_data_service",
+        "peekOfCode": "class FetchDataService() :\n    def __init__(self):\n        pass\n    def fetch_rfq(self):\n        rfq_hearder_entity = RFQHeaderRepository().fetch_all(ACTIVE=1,COMPLETE=0)\n        return rfq_hearder_entity\n    def fetch_mail_vendor(self, rfq_sid, rfq_no):\n        mail_vendor_entity = RFQHeaderRepository().fetch_mail_vendor(rfq_sid, rfq_no)\n        # return mail_vendor_entity",
+        "detail": "app.services.fetch_data_service",
+        "documentation": {}
+    }
+]
