@@ -1,0 +1,15 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Python: main",
+            "type": "debugpy",
+            "request": "launch",
+            "module": "debugpy",  // Change 'program' to 'module' with 'debugpy'
+            "args": [
+                "${workspaceFolder}/main.py"  // Specify main.py as an argument
+            ],
+            "console": "integratedTerminal"
+        }
+    ]
+}

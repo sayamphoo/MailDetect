@@ -35,6 +35,71 @@
         "documentation": {}
     },
     {
+        "label": "re",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "re",
+        "description": "re",
+        "detail": "re",
+        "documentation": {}
+    },
+    {
+        "label": "Mail",
+        "importPath": "app.models.domains.mail",
+        "description": "app.models.domains.mail",
+        "isExtraImport": true,
+        "detail": "app.models.domains.mail",
+        "documentation": {}
+    },
+    {
+        "label": "Mail",
+        "importPath": "app.models.domains.mail",
+        "description": "app.models.domains.mail",
+        "isExtraImport": true,
+        "detail": "app.models.domains.mail",
+        "documentation": {}
+    },
+    {
+        "label": "Mail",
+        "importPath": "app.models.domains.mail",
+        "description": "app.models.domains.mail",
+        "isExtraImport": true,
+        "detail": "app.models.domains.mail",
+        "documentation": {}
+    },
+    {
+        "label": "MsgCenterRepository",
+        "importPath": "app.repositories.msg_center_repo",
+        "description": "app.repositories.msg_center_repo",
+        "isExtraImport": true,
+        "detail": "app.repositories.msg_center_repo",
+        "documentation": {}
+    },
+    {
+        "label": "RFQVendorRepository",
+        "importPath": "app.repositories.rfq_vendor_repo",
+        "description": "app.repositories.rfq_vendor_repo",
+        "isExtraImport": true,
+        "detail": "app.repositories.rfq_vendor_repo",
+        "documentation": {}
+    },
+    {
+        "label": "EmailDetectionService",
+        "importPath": "app.services.detect_mail_service",
+        "description": "app.services.detect_mail_service",
+        "isExtraImport": true,
+        "detail": "app.services.detect_mail_service",
+        "documentation": {}
+    },
+    {
+        "label": "DataFetchService",
+        "importPath": "app.services.fetch_data_service",
+        "description": "app.services.fetch_data_service",
+        "isExtraImport": true,
+        "detail": "app.services.fetch_data_service",
+        "documentation": {}
+    },
+    {
         "label": "create_engine",
         "importPath": "sqlalchemy",
         "description": "sqlalchemy",
@@ -195,14 +260,6 @@
         "documentation": {}
     },
     {
-        "label": "String",
-        "importPath": "sqlalchemy",
-        "description": "sqlalchemy",
-        "isExtraImport": true,
-        "detail": "sqlalchemy",
-        "documentation": {}
-    },
-    {
         "label": "Integer",
         "importPath": "sqlalchemy",
         "description": "sqlalchemy",
@@ -211,7 +268,7 @@
         "documentation": {}
     },
     {
-        "label": "Boolean",
+        "label": "String",
         "importPath": "sqlalchemy",
         "description": "sqlalchemy",
         "isExtraImport": true,
@@ -272,14 +329,6 @@
         "description": "dataclasses",
         "isExtraImport": true,
         "detail": "dataclasses",
-        "documentation": {}
-    },
-    {
-        "label": "List",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
         "documentation": {}
     },
     {
@@ -411,14 +460,6 @@
         "documentation": {}
     },
     {
-        "label": "MsgCenterEntity",
-        "importPath": "app.models.entities.msg_center_entity",
-        "description": "app.models.entities.msg_center_entity",
-        "isExtraImport": true,
-        "detail": "app.models.entities.msg_center_entity",
-        "documentation": {}
-    },
-    {
         "label": "BaseRepository",
         "importPath": "app.repositories.repository",
         "description": "app.repositories.repository",
@@ -483,19 +524,19 @@
         "documentation": {}
     },
     {
-        "label": "Mail",
-        "importPath": "app.models.domains.mail",
-        "description": "app.models.domains.mail",
+        "label": "UserRepository",
+        "importPath": "app.repositories.user_repo",
+        "description": "app.repositories.user_repo",
         "isExtraImport": true,
-        "detail": "app.models.domains.mail",
+        "detail": "app.repositories.user_repo",
         "documentation": {}
     },
     {
-        "label": "Mail",
-        "importPath": "app.models.domains.mail",
-        "description": "app.models.domains.mail",
+        "label": "UserRepository",
+        "importPath": "app.repositories.user_repo",
+        "description": "app.repositories.user_repo",
         "isExtraImport": true,
-        "detail": "app.models.domains.mail",
+        "detail": "app.repositories.user_repo",
         "documentation": {}
     },
     {
@@ -515,52 +556,20 @@
         "documentation": {}
     },
     {
-        "label": "RFQHeaderRepository",
-        "importPath": "app.repositories.rfq_hearder_repo",
-        "description": "app.repositories.rfq_hearder_repo",
+        "label": "EmailAnalysisController",
+        "importPath": "app.controllers.email_analysis_controller",
+        "description": "app.controllers.email_analysis_controller",
         "isExtraImport": true,
-        "detail": "app.repositories.rfq_hearder_repo",
+        "detail": "app.controllers.email_analysis_controller",
         "documentation": {}
     },
     {
-        "label": "re",
+        "label": "unittest",
         "kind": 6,
         "isExtraImport": true,
-        "importPath": "re",
-        "description": "re",
-        "detail": "re",
-        "documentation": {}
-    },
-    {
-        "label": "MsgCenterRepository",
-        "importPath": "app.repositories.msg_center_repo",
-        "description": "app.repositories.msg_center_repo",
-        "isExtraImport": true,
-        "detail": "app.repositories.msg_center_repo",
-        "documentation": {}
-    },
-    {
-        "label": "RFQVendorRepository",
-        "importPath": "app.repositories.rfq_vendor_repo",
-        "description": "app.repositories.rfq_vendor_repo",
-        "isExtraImport": true,
-        "detail": "app.repositories.rfq_vendor_repo",
-        "documentation": {}
-    },
-    {
-        "label": "DetectMailService",
-        "importPath": "app.services.detect_mail_service",
-        "description": "app.services.detect_mail_service",
-        "isExtraImport": true,
-        "detail": "app.services.detect_mail_service",
-        "documentation": {}
-    },
-    {
-        "label": "FetchDataService",
-        "importPath": "app.services.fetch_data_service",
-        "description": "app.services.fetch_data_service",
-        "isExtraImport": true,
-        "detail": "app.services.fetch_data_service",
+        "importPath": "unittest",
+        "description": "unittest",
+        "detail": "unittest",
         "documentation": {}
     },
     {
@@ -645,6 +654,15 @@
         "documentation": {}
     },
     {
+        "label": "EmailAnalysisController",
+        "kind": 6,
+        "importPath": "app.controllers.email_analysis_controller",
+        "description": "app.controllers.email_analysis_controller",
+        "peekOfCode": "class EmailAnalysisController:\n    def __init__(self):\n        self.fetch_data_service = DataFetchService()\n        self.rfq_vendor_repository = RFQVendorRepository()\n        self.msg_center_repository = MsgCenterRepository()\n        self.detect_mail_service = EmailDetectionService()\n    def analyze_emails(self):\n        try:\n            rfq_headers = self.fetch_data_service.fetch_rfq()\n        except Exception as e:",
+        "detail": "app.controllers.email_analysis_controller",
+        "documentation": {}
+    },
+    {
         "label": "DatabaseConnection",
         "kind": 6,
         "importPath": "app.database.connection",
@@ -721,7 +739,7 @@
         "kind": 6,
         "importPath": "app.models.entities.user_entity",
         "description": "app.models.entities.user_entity",
-        "peekOfCode": "class UserEntity(Base):\n    __tablename__ = 'USERS'\n    __table_args__ = {'schema': 'MASTR'}\n    SID = Column(Integer, primary_key=True, autoincrement=True)\n    USERID = Column(String)\n    ACTIVE = Column(Boolean)\n    EMAIL = Column(String)\n    PASSWD = Column(String)\n    SALT = Column(String)\n    SUBMITDATE = Column(DateTime)",
+        "peekOfCode": "class UserEntity(Base):\n    __tablename__ = 'USERS'\n    __table_args__ = {'schema': 'MASTR'}\n    SID = Column(Integer, primary_key=True, autoincrement=True)\n    USERID = Column(String(50), nullable=True)\n    ACTIVE = Column(String(1), nullable=True)  # Assuming ACTIVEFLAG is a single character\n    EMAIL = Column(String(255), nullable=True)  # Adjust length as necessary",
         "detail": "app.models.entities.user_entity",
         "documentation": {}
     },
@@ -730,7 +748,7 @@
         "kind": 5,
         "importPath": "app.models.entities.user_entity",
         "description": "app.models.entities.user_entity",
-        "peekOfCode": "Base = declarative_base()\nclass UserEntity(Base):\n    __tablename__ = 'USERS'\n    __table_args__ = {'schema': 'MASTR'}\n    SID = Column(Integer, primary_key=True, autoincrement=True)\n    USERID = Column(String)\n    ACTIVE = Column(Boolean)\n    EMAIL = Column(String)\n    PASSWD = Column(String)\n    SALT = Column(String)",
+        "peekOfCode": "Base = declarative_base()\nclass UserEntity(Base):\n    __tablename__ = 'USERS'\n    __table_args__ = {'schema': 'MASTR'}\n    SID = Column(Integer, primary_key=True, autoincrement=True)\n    USERID = Column(String(50), nullable=True)\n    ACTIVE = Column(String(1), nullable=True)  # Assuming ACTIVEFLAG is a single character\n    EMAIL = Column(String(255), nullable=True)  # Adjust length as necessary",
         "detail": "app.models.entities.user_entity",
         "documentation": {}
     },
@@ -775,26 +793,44 @@
         "kind": 6,
         "importPath": "app.repositories.user_repo",
         "description": "app.repositories.user_repo",
-        "peekOfCode": "class UserRepository(BaseRepository) :\n    def __init__(self):\n        super().__init__(database_name=\"SALLY\")\n        self.query = self.session.query(UserEntity)\n    # def find_by_email(self, email) -> UserEntity:\n    #     return self.query.filter(UserEntity.EMAIL == email).first()\n    def is_email_for_pb(self, email):\n        return self.query.filter(UserEntity.EMAIL == email).first() is not None",
+        "peekOfCode": "class UserRepository(BaseRepository):\n    def __init__(self):\n        super().__init__(database_name=\"SALLY\")\n        self.query = self.session.query(UserEntity)\n    def find_by_email(self, email: str):\n        return self.query.filter(UserEntity.EMAIL == email).all()\n    def is_email_for_pb(self, email):\n        return (\n            self.query.filter(\n                UserEntity.EMAIL == email and UserEntity.ACTIVE == 1",
         "detail": "app.repositories.user_repo",
         "documentation": {}
     },
     {
-        "label": "DetectMailService",
+        "label": "EmailDetectionService",
         "kind": 6,
         "importPath": "app.services.detect_mail_service",
         "description": "app.services.detect_mail_service",
-        "peekOfCode": "class DetectMailService:\n    def __init__(self) -> None:\n        self.sender_first_mail: List[str] = []\n        self.receive_first_mail: List[str] = []\n    def detect(self, email_transactions: List[Mail]):\n        self.sender_first_mail = email_transactions[0].sender\n        self.receive_first_mail = email_transactions[0].recipient\n        if \"cposystem@scg.com\" == self.sender_first_mail[0] and (\n            (\n                len(self.receive_first_mail) == 1",
+        "peekOfCode": "class EmailDetectionService:\n    def __init__(self) -> None:\n        self.sender_first_mail: List[str] = []\n        self.receive_first_mail: List[str] = []\n        self.user_repository: UserRepository = UserRepository()\n    def detect(self, email_transactions: List[Mail]):\n        self.sender_first_mail = email_transactions[0].sender\n        self.receive_first_mail = email_transactions[0].recipient\n        if self.__is_normal_case():\n            self.__normal_case(email_transactions)",
         "detail": "app.services.detect_mail_service",
         "documentation": {}
     },
     {
-        "label": "FetchDataService",
+        "label": "EmailService",
+        "kind": 6,
+        "importPath": "app.services.email_service",
+        "description": "app.services.email_service",
+        "peekOfCode": "class EmailService:\n    def __init__(self, msg_center_repository: MsgCenterRepository):\n        self.msg_center_repository = msg_center_repository\n    def get_emails_by_rfq(self, rfq_no):\n        return self.msg_center_repository.find_by_subject_ilike(rfqno=rfq_no)\n    def filter_vendor_emails(self, emails, vendor_emails):\n        sequent_mail_domain = [\n            Mail(\n                sender=re.split(r\"[;,]\", email.FROMEMAIL),\n                recipient=re.split(r\"[;,]\", email.TOEMAIL),",
+        "detail": "app.services.email_service",
+        "documentation": {}
+    },
+    {
+        "label": "DataFetchService",
         "kind": 6,
         "importPath": "app.services.fetch_data_service",
         "description": "app.services.fetch_data_service",
-        "peekOfCode": "class FetchDataService() :\n    def __init__(self):\n        pass\n    def fetch_rfq(self):\n        rfq_hearder_entity = RFQHeaderRepository().fetch_all(ACTIVE=1,COMPLETE=0)\n        return rfq_hearder_entity\n    def fetch_mail_vendor(self, rfq_sid, rfq_no):\n        mail_vendor_entity = RFQHeaderRepository().fetch_mail_vendor(rfq_sid, rfq_no)\n        # return mail_vendor_entity",
+        "peekOfCode": "class DataFetchService:\n    def __init__(self):\n        pass\n    def fetch_rfq(self):\n        try:\n            rfq_header_entity = RFQHeaderRepository().fetch_all(ACTIVE=1, COMPLETE=0)\n            return rfq_header_entity\n        except Exception as e:\n            print(f\"Error fetching RFQ headers: {e}\")\n            return None",
         "detail": "app.services.fetch_data_service",
+        "documentation": {}
+    },
+    {
+        "label": "TestRepo",
+        "kind": 6,
+        "importPath": "test",
+        "description": "test",
+        "peekOfCode": "class TestRepo(unittest.TestCase) :\n    def test_user(self) :\n        repo = UserRepository()\n        print(repo.is_email_for_pb(\"suthanyp@scg.com\"))\nif __name__ == '__main__':\n   unittest.main()",
+        "detail": "test",
         "documentation": {}
     }
 ]

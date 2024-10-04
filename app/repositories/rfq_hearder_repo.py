@@ -19,4 +19,4 @@ class RFQHeaderRepository(BaseRepository):
             
         
             
-        return query.order_by(desc(RFQHeaderEntity.SID)).limit(2).all()
+        return query.order_by(desc(RFQHeaderEntity.SID)).limit(10).all()
